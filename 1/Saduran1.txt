@@ -1,0 +1,12 @@
+1 nim : 1811500084
+2 nama : fajar maulana
+3 kelompok : TI6J
+4
+5 tugas menyadur pertemuan pertama
+6 pertama bapak memperkenalkan diri
+7 kedua menjelaskan tentang marvel sama dengan alur pembelajaran harus berurutan
+8 ketiga Menjelaskan tentang mahasiswa yang salah dalam bertutur kata
+9 keempat Bapak menjelaskan tentang protokol kesehatan yang harus dilakukan di lingkungan kampus
+10 kelima Bapak menjelaskan tentang kegiatan perkuliahan 
+11 keenam bapak menjelaskan tentang penilaian nilai atau berapa persen nilai uts,uas,kehadiran dan sbgnya
+12 ketujuh masuk kemateri pembelajar dan ada tugas
