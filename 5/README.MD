@@ -1,0 +1,5 @@
+NAMA : FAJAR MAULANA
+NIM : 1811500084
+KELOMPOK : TI6J
+
+Hasil saya menyadur
